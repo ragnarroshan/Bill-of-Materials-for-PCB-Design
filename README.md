@@ -4,7 +4,6 @@
 To prepare the Bill of Material for the given circuit.
 
 # Software’s required
-
 	Eagle software
 
 # Procedure
@@ -60,11 +59,12 @@ During the product life, components may fail needing repair or upgrade. Here the
 # Circuit Diagram
 
 
+![WhatsApp Image 2025-03-16 at 1 30 58 PM](https://github.com/user-attachments/assets/39eba88a-b3a8-44c6-9064-3d35bd2cfc39)
 
 
 # Output
 
-
+![bom](https://github.com/user-attachments/assets/3d65b916-7b8c-447d-bc56-853949f81794)
 
 
 
